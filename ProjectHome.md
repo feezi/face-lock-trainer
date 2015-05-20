@@ -1,0 +1,1 @@
+An android app for 4.0 (cupcake) that restores the missing 'training' element of the face unlock system that was removed on certain devices (notably the HTC Sensation).
